@@ -1,0 +1,10 @@
+name: app_directory
+title:
+username:
+account: martindescottes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3304062
+bundleId: 3907584
+url: https://martindescottes.shinyapps.io/app_directory/
+when: 1606364778.24008

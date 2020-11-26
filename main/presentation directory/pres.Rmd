@@ -1,0 +1,43 @@
+---
+title: "AirBnb presentation - Martin DESCOTTES"
+output: html_notebook
+---
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page1.png")
+```
+
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page2.png")
+```
+
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page3.png")
+```
+
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page4.png")
+```
+
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page5.png")
+```
+
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page6.png")
+```
+
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page7.png")
+```
+
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page8.png")
+```
+
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page9.png")
+```
+
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("page10.png")
+```
